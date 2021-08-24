@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Suraj Kumar (people mess up the pronounciatio so if me meet someday call me SK)</h1>
+<h1 align="center">Hi 👋, I'm Suraj Kumar </h1>
+<h3 align="center">people mess up the pronounciatio so if we meet someday call me SK</h3>
 <h3 align="center">I am good at googling and always amazed by what 0's and 1's can do.</h3>
 
 <p align="left"> <a href="https://twitter.com/codeswith" target="blank"><img src="https://img.shields.io/twitter/follow/codeswith?logo=twitter&style=for-the-badge" alt="codeswith" /></a> </p>
