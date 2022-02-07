@@ -2,7 +2,7 @@
 <h3 align="center">People mess up the pronounciation so if we meet someday call me SK</h3>
 <h3 align="center">I am good at googling and always amazed by what 0's and 1's can do.</h3>
 
-<p align="left"> <a href="https://twitter.com/codeswith" target="blank"><img src="https://img.shields.io/twitter/follow/velacoder?logo=twitter&style=for-the-badge" alt="codeswith" /></a> </p>
+<p align="left"> <a href="https://twitter.com/velacoder" target="blank"><img src="https://img.shields.io/twitter/follow/velacoder?logo=twitter&style=for-the-badge" alt="velacoder" /></a> </p>
 
 - 🔭 I’m currently working on [My protfolio page](https://github.com/surajkumar-sk/Static_portfolio)
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/codeswith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codeswith" height="30" width="40" /></a>
+<a href="https://twitter.com/velacoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="velacoder" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/surajkumar-sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajkumar-sk" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14310359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14310359" height="30" width="40" /></a>
 <a href="https://instagram.com/velacoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="velacoder" height="30" width="40" /></a>
