@@ -4,15 +4,15 @@
 
 <p align="left"> <a href="https://twitter.com/velacoder" target="blank"><img src="https://img.shields.io/twitter/follow/velacoder?logo=twitter&style=for-the-badge" alt="velacoder" /></a> </p>
 
-- 🔭 I’m currently working on [My protfolio page](https://github.com/surajkumar-sk/Static_portfolio)
+- 🔭 Here's my portfolio(do browse "About me" page) [My protfolio page](https://surajkumarsk.me)
 
-- 🌱 I’m currently learning **Computer Hardware and Operating Systems**
+- 🌱 I’m currently learning **Algorithms and DataStructures**( I getting quite good)
 
 - 🤝 I’m looking for help with **AR and VR**
 
-- 📝 I regularly write articles on [codewith-sk.blogspot.com](codewith-sk.blogspot.com)
+- 📝 I plan on writing articles on [velacoder.blogspot.com](https://velacoder.blogspot.com/)
 
-- 💬 Ask me about **Nodejs, python , c++ , Web Development**
+- 💬 Ask me about **Nodejs, ReactJS, python , c++ , Full stack Development**
 
 - 📫 How to reach me **sk10121815@gmail.com**
 
