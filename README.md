@@ -11,7 +11,7 @@
 
 - 📝 Been writing some tech blogs, i am sure you'll learn something new -  [Link to knowledge](https://medium.com/@surajkumar-sk)
 
-- 💬 Ask me about **How to making a scalable and performant product**
+- 💬 Ask me about ** making a scalable and performant product**
 
 - 📫 How to reach me **sk10121815@gmail.com**
 
