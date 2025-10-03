@@ -1,23 +1,24 @@
 <h1 align="center">Hi 👋, I'm Suraj Kumar </h1>
-<h3 align="center">People mess up the pronounciation so if we meet someday call me SK</h3>
 <h3 align="center">I am good at googling and always amazed by what 0's and 1's can do.</h3>
 
 <p align="left"> <a href="https://twitter.com/velacoder" target="blank"><img src="https://img.shields.io/twitter/follow/velacoder?logo=twitter&style=for-the-badge" alt="velacoder" /></a> </p>
 
-- 🔭 Here's my portfolio(do browse "About me" page) [My protfolio page](https://surajkumarsk.me)
+- I am alwayys up for a good challenge, so hit me up. 
 
-- 🌱 I’m currently learning **Algorithms and DataStructures**( I getting quite good)
+- Don't bother me with DSA.
 
 - 🤝 I’m looking for help with **AR and VR**
 
-- 📝 I plan on writing articles on [velacoder.blogspot.com](https://velacoder.blogspot.com/)
+- 📝 Been writing some tech blogs, i am sure you'll learn something new -  [Link to knowledge](https://medium.com/@surajkumar-sk)
 
-- 💬 Ask me about **Nodejs, ReactJS, python , c++ , Full stack Development**
+- 💬 Ask me about **How to making a scalable and performant product**
 
 - 📫 How to reach me **sk10121815@gmail.com**
 
 - ⚡ Fun fact **I procrastinate a lot.**
 
+
+Below info will always be outdated, because i constantly keep exploring so you'll have to ask me about m current skills.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/velacoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="velacoder" height="30" width="40" /></a>
